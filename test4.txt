@@ -1,8 +1,10 @@
 44444444
 master add
 dev add
+<<<<<<< HEAD
 fixed bug-----
 
 
 
 master add
+dev add
